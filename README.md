@@ -21,8 +21,10 @@
 
 ![image](https://user-images.githubusercontent.com/107569616/193402768-bcbe7e68-19f5-4238-9388-31afd1b4bd8f.png)
 
-## 作業四 最短路徑 
-補圖
+## 作業四 找出最大得分路線 
+
+![image](https://user-images.githubusercontent.com/107569616/193413001-a34164bb-be2b-4aad-aa5e-7ed71880575f.png)
+
 
 ## 作業五 計算矩陣
 
