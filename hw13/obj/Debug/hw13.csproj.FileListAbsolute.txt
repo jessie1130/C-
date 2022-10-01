@@ -1,0 +1,10 @@
+C:\Users\jessie\Desktop\C#\hw13\obj\Debug\hw13.csprojAssemblyReference.cache
+C:\Users\jessie\Desktop\C#\hw13\obj\Debug\hw13.Form1.resources
+C:\Users\jessie\Desktop\C#\hw13\obj\Debug\hw13.Properties.Resources.resources
+C:\Users\jessie\Desktop\C#\hw13\obj\Debug\hw13.csproj.GenerateResource.cache
+C:\Users\jessie\Desktop\C#\hw13\obj\Debug\hw13.csproj.CoreCompileInputs.cache
+C:\Users\jessie\Desktop\C#\hw13\bin\Debug\hw13.exe.config
+C:\Users\jessie\Desktop\C#\hw13\bin\Debug\hw13.exe
+C:\Users\jessie\Desktop\C#\hw13\bin\Debug\hw13.pdb
+C:\Users\jessie\Desktop\C#\hw13\obj\Debug\hw13.exe
+C:\Users\jessie\Desktop\C#\hw13\obj\Debug\hw13.pdb

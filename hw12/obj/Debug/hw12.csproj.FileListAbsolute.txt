@@ -1,0 +1,10 @@
+C:\Users\jessie\Desktop\C#\hw12\bin\Debug\hw12.exe.config
+C:\Users\jessie\Desktop\C#\hw12\bin\Debug\hw12.exe
+C:\Users\jessie\Desktop\C#\hw12\bin\Debug\hw12.pdb
+C:\Users\jessie\Desktop\C#\hw12\obj\Debug\hw12.csprojAssemblyReference.cache
+C:\Users\jessie\Desktop\C#\hw12\obj\Debug\hw12.Form1.resources
+C:\Users\jessie\Desktop\C#\hw12\obj\Debug\hw12.Properties.Resources.resources
+C:\Users\jessie\Desktop\C#\hw12\obj\Debug\hw12.csproj.GenerateResource.cache
+C:\Users\jessie\Desktop\C#\hw12\obj\Debug\hw12.csproj.CoreCompileInputs.cache
+C:\Users\jessie\Desktop\C#\hw12\obj\Debug\hw12.exe
+C:\Users\jessie\Desktop\C#\hw12\obj\Debug\hw12.pdb
