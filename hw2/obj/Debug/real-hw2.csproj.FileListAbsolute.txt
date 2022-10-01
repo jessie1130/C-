@@ -1,0 +1,10 @@
+C:\Users\jessie\Desktop\C#\real-hw2\bin\Debug\real-hw2.exe.config
+C:\Users\jessie\Desktop\C#\real-hw2\bin\Debug\real-hw2.exe
+C:\Users\jessie\Desktop\C#\real-hw2\bin\Debug\real-hw2.pdb
+C:\Users\jessie\Desktop\C#\real-hw2\obj\Debug\real-hw2.csprojAssemblyReference.cache
+C:\Users\jessie\Desktop\C#\real-hw2\obj\Debug\real_hw2.Form1.resources
+C:\Users\jessie\Desktop\C#\real-hw2\obj\Debug\real_hw2.Properties.Resources.resources
+C:\Users\jessie\Desktop\C#\real-hw2\obj\Debug\real-hw2.csproj.GenerateResource.cache
+C:\Users\jessie\Desktop\C#\real-hw2\obj\Debug\real-hw2.csproj.CoreCompileInputs.cache
+C:\Users\jessie\Desktop\C#\real-hw2\obj\Debug\real-hw2.exe
+C:\Users\jessie\Desktop\C#\real-hw2\obj\Debug\real-hw2.pdb
