@@ -38,9 +38,10 @@
   
   ![image](https://user-images.githubusercontent.com/107569616/193403703-c5a21eff-ff93-4a76-9716-24a916601dc5.png)![image](https://user-images.githubusercontent.com/107569616/193403684-449dbae6-bdb2-418a-a4bf-928989b06c1e.png)
 
-## 作業七  迷宮
+## 作業七 利用堆疊走出迷宮迷宮
 
-補圖
+![image](https://user-images.githubusercontent.com/107569616/193412647-f37297da-2bc0-4ace-9bbe-1244676da05f.png) --> ![image](https://user-images.githubusercontent.com/107569616/193412667-34c82829-bc1b-4979-81b0-757bb002d78a.png)
+
 
 ## 作業八 環狀佇列
   圖示化呈現Queue
